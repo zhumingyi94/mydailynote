@@ -1,0 +1,13 @@
+{
+  "accentColor": "#27ff0a",
+  "textFontFamily": "",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "cssTheme": "Typomagical",
+  "interfaceFontFamily": "",
+  "nativeMenus": true,
+  "theme": "moonstone",
+  "translucency": true,
+  "enabledCssSnippets": [],
+  "showViewHeader": false
+}

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "48f93df2d7688f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8237c4779d385fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c9d569bc1a070a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Backend/Java Spring.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a90cf2c7ece452a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7a5042577ffe8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc4c0fb6e509469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "68d94c386945df89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea85dff0d57de451",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "20f28174bad07229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/CS224n/Lecture 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "14ef38c309080231",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb518dd061088ff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f7a2385063e252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Development/Backend/Java Spring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cd6e12dd042814f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Development/Backend/Java Spring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b1a5b5675fcd96e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "117bac21aa92faba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Development/Backend/Java Spring.md"
+              }
+            }
+          },
+          {
+            "id": "00cae1d2c722a3d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "e1c9d569bc1a070a",
+  "lastOpenFiles": [
+    "test.md",
+    "Software Development/Backend/Pasted image 20240801051356.png",
+    "Software Development/Backend/Pasted image 20240731173142.png",
+    "Design/6 Hacks on Design.md",
+    "Mathematics/Matrix Calculus (ex).md",
+    "Mathematics/Matrix Calculus.md",
+    "Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+    "AI Roadmaps.canvas",
+    "VQA_paper.pdf",
+    "Software Development/Backend/Java Spring.md",
+    "Deep Learning/Coding stuff/Dataclass.md",
+    "Contest VBS/VBS contest.md",
+    "University's subject/OODA/Introduction.md",
+    "University's subject/OODA/Object Orientation.md",
+    "Miscancellous/Survery on LLM.md",
+    "University's subject/Quản lý tài chính cá nhân 1.md",
+    "University's subject/Quản lý tài chính cá nhân.md",
+    "Excalidraw/ML Roadmaps.md",
+    "Miscancellous/Pasted image 20240719164456.png",
+    "Miscancellous/Nice ideas for implementation/Simple idea for implementation.md",
+    "Deep Learning/AI paper/1301.3781v3.pdf",
+    "Deep Learning/Coding stuff/GPU & CUDA programming.md",
+    "Deep Learning/AI paper/Word2Vec-P.md",
+    "Deep Learning/Coding stuff/Hydra.md",
+    "Deep Learning/Coding stuff/Name-Main Idiom.md",
+    "Deep Learning/Coding stuff/Pasted image 20240715170728.png",
+    "Deep Learning/AI paper/Prompt Engineering.md",
+    "Deep Learning/AI paper/Pasted image 20240721133254.png",
+    "Deep Learning/CS224n/Lecture 1.md",
+    "Deep Learning/Coding stuff/Working with filepath.md",
+    "Deep Learning/Coding stuff/Pasted image 20240715213134.png",
+    "Miscancellous/Nice ideas for implementation/Pasted image 20240713102158.png",
+    "University's subject/Pasted image 20240714152537.png",
+    "Design",
+    "Software Development/Backend/Pasted image 20240731181535.png",
+    "University's subject/OODA/Visual Modeling.md",
+    "Mathematics Foundation/Linear Algebra.md",
+    "Mathematics Foundation/Analytics Geometry.md",
+    "Mathematics Foundation/Information Theory/Resource.md",
+    "Software Development/Backend",
+    "Software Development",
+    "University's subject/OODA/Pasted image 20240716011045.png",
+    "Mathematics Foundation/Information Theory",
+    "Deep Learning/Karpathy series",
+    "Deep Learning/Coding stuff",
+    "Deep Learning/Seminar"
+  ]
+}
