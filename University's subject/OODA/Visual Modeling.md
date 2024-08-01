@@ -1,4 +1,3 @@
-# Visual modeling
 ## MAIN CONTENT
 **OBJECTIVE:**
 

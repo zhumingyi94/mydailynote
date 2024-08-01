@@ -9,5 +9,8 @@
   "obsidian-latex-suite",
   "calctex",
   "obsidian-excalidraw-plugin",
-  "pdf-plus"
+  "pdf-plus",
+  "tag-wrangler",
+  "colored-tags",
+  "editing-toolbar"
 ]

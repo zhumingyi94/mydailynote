@@ -1,0 +1,24 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "Design": 2,
+    "Reinforcement": 3,
+    "RL": 4,
+    "DL": 5,
+    "DeepLearning": 6,
+    "Reminder": 7,
+    "LinearAlgebra": 8,
+    "Mathematics": 9
+  },
+  "_version": 3
+}

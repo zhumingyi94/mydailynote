@@ -1,5 +1,4 @@
-# Hacks
-
+#Design
 ### Tips
 - **Tips 1:** x1.1 - 1.2 for headings, x1.3 - 1.5 for body texts
 
@@ -14,4 +13,4 @@
 - **Tips 6:** Make sure to use whitespace, what has closer relationship should have thinner space; we should use 2x 
 
 ### Guidelines
--  
+

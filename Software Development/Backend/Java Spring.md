@@ -1,5 +1,3 @@
-# Java Spring
-
 ### Overview
 >[!question]- What is Java Actuator 
 >It just the tools that helps us understand about the system and provide several endpoints, you can check it in [List of enpoints](www.luv2code.com/actuator-endpoints)

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8237c4779d385fc",
+        "id": "8c813092988b817e",
         "type": "tabs",
         "children": [
           {
-            "id": "e1c9d569bc1a070a",
+            "id": "589bb2f5cd3f011a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Backend/Java Spring.md",
-                "mode": "preview",
+                "file": "Mathematics Foundation/Solving System of Linear Equations.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 258.5
   },
   "right": {
     "id": "14ef38c309080231",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Backend/Java Spring.md",
+                "file": "Mathematics Foundation/Solving System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Backend/Java Spring.md",
+                "file": "Mathematics Foundation/Solving System of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Backend/Java Spring.md"
+                "file": "Mathematics Foundation/Solving System of Linear Equations.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,61 +168,61 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1c9d569bc1a070a",
+  "active": "589bb2f5cd3f011a",
   "lastOpenFiles": [
-    "test.md",
-    "Software Development/Backend/Pasted image 20240801051356.png",
-    "Software Development/Backend/Pasted image 20240731173142.png",
-    "Design/6 Hacks on Design.md",
-    "Mathematics/Matrix Calculus (ex).md",
-    "Mathematics/Matrix Calculus.md",
-    "Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
-    "AI Roadmaps.canvas",
-    "VQA_paper.pdf",
-    "Software Development/Backend/Java Spring.md",
-    "Deep Learning/Coding stuff/Dataclass.md",
-    "Contest VBS/VBS contest.md",
-    "University's subject/OODA/Introduction.md",
-    "University's subject/OODA/Object Orientation.md",
     "Miscancellous/Survery on LLM.md",
-    "University's subject/Quản lý tài chính cá nhân 1.md",
-    "University's subject/Quản lý tài chính cá nhân.md",
     "Excalidraw/ML Roadmaps.md",
+    "Design/6 Hacks on Design.md",
+    "Reinforcement Learning/Introduction to RL.md",
+    "Reinforcement Learning/Q-Learning.md",
+    "Reinforcement Learning/Pasted image 20240801161308.png",
+    "University's subject/OODA/Bài tập lớn.md",
+    "University's subject/OODA/Introduction.md",
+    "Reinforcement Learning/Pasted image 20240801154539.png",
+    "Reinforcement Learning/Pasted image 20240801152516.png",
+    "AI Roadmaps.canvas",
+    "Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+    "VQA_paper.pdf",
+    "test.md",
+    "Software Development/Backend/Java Spring.md",
+    "University's subject/OODA/Visual Modeling.md",
     "Miscancellous/Pasted image 20240719164456.png",
     "Miscancellous/Nice ideas for implementation/Simple idea for implementation.md",
-    "Deep Learning/AI paper/1301.3781v3.pdf",
-    "Deep Learning/Coding stuff/GPU & CUDA programming.md",
-    "Deep Learning/AI paper/Word2Vec-P.md",
-    "Deep Learning/Coding stuff/Hydra.md",
-    "Deep Learning/Coding stuff/Name-Main Idiom.md",
-    "Deep Learning/Coding stuff/Pasted image 20240715170728.png",
-    "Deep Learning/AI paper/Prompt Engineering.md",
-    "Deep Learning/AI paper/Pasted image 20240721133254.png",
-    "Deep Learning/CS224n/Lecture 1.md",
-    "Deep Learning/Coding stuff/Working with filepath.md",
-    "Deep Learning/Coding stuff/Pasted image 20240715213134.png",
     "Miscancellous/Nice ideas for implementation/Pasted image 20240713102158.png",
-    "University's subject/Pasted image 20240714152537.png",
-    "Design",
-    "Software Development/Backend/Pasted image 20240731181535.png",
-    "University's subject/OODA/Visual Modeling.md",
-    "Mathematics Foundation/Linear Algebra.md",
-    "Mathematics Foundation/Analytics Geometry.md",
     "Mathematics Foundation/Information Theory/Resource.md",
+    "Mathematics Foundation/Analytics Geometry.md",
+    "Mathematics Foundation/Solving System of Linear Equations.md",
+    "Deep Learning/Universal Approximation theorem.md",
+    "Reinforcement Learning",
+    "Deep Learning/Resources.md",
+    "Deep Learning/MLP.md",
+    "README.md",
+    "Software Development/Backend/Pasted image 20240801051356.png",
+    "Software Development/Backend/Pasted image 20240731173142.png",
+    "Mathematics Foundation/Matrix Calculus (ex).md",
+    "Mathematics Foundation/Matrix Calculus.md",
+    "Deep Learning/Coding stuff/Dataclass.md",
+    "Contest VBS/VBS contest.md",
+    "University's subject/OODA/Object Orientation.md",
+    "University's subject/Quản lý tài chính cá nhân 1.md",
+    "University's subject/Quản lý tài chính cá nhân.md",
+    "Deep Learning/AI paper/1301.3781v3.pdf",
+    "Deep Learning/Coding stuff/Pasted image 20240715170728.png",
+    "Deep Learning/AI paper/Pasted image 20240721133254.png",
+    "Deep Learning/Coding stuff/Pasted image 20240715213134.png",
+    "Design",
     "Software Development/Backend",
     "Software Development",
-    "University's subject/OODA/Pasted image 20240716011045.png",
     "Mathematics Foundation/Information Theory",
     "Deep Learning/Karpathy series",
-    "Deep Learning/Coding stuff",
-    "Deep Learning/Seminar"
+    "Deep Learning/Coding stuff"
   ]
 }
