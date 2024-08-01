@@ -18,7 +18,17 @@
     "DeepLearning": 6,
     "Reminder": 7,
     "LinearAlgebra": 8,
-    "Mathematics": 9
+    "Mathematics": 9,
+    "Deep": 10,
+    "Learning": 11,
+    "LLM": 12,
+    "Overview": 13,
+    "idea": 14,
+    "InformationTheory": 15,
+    "Probability": 16,
+    "ML": 17,
+    "deeplearning": 18,
+    "design": 19
   },
   "_version": 3
 }

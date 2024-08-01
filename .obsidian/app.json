@@ -11,15 +11,16 @@
   "foldIndent": true,
   "showIndentGuide": true,
   "autoConvertHtml": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "promptDelete": true,
   "showRibbon": true,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Files",
   "autoPairBrackets": true,
-  "autoPairMarkdown": true
+  "autoPairMarkdown": true,
+  "newFileFolderPath": "Zettelkasten"
 }
