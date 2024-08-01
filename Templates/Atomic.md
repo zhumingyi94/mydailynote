@@ -1,5 +1,5 @@
 **{{date:YYYYMMDD}}{{time:HHmm}}**
-**Status: ** #idea
+**Status: ** #flashcards 
 **Tags: ** 
 
 <hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">

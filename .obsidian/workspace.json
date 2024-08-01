@@ -11,13 +11,11 @@
             "id": "17acd56aff831a89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
-                "page": 6,
-                "left": -10,
-                "top": 69,
-                "zoom": 1.4779411764705883
+                "file": "Templates/Atomic.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+                "file": "Templates/Atomic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+                "file": "Templates/Atomic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf"
+                "file": "Templates/Atomic.md"
               }
             }
           },
@@ -151,9 +149,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "345a2e48fcd50f28",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,40 +180,42 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "17acd56aff831a89",
   "lastOpenFiles": [
-    "Reference notes/CS224n.md",
-    "Reference notes/Large Language Model.md",
+    "Templates/References.md",
+    "Zettelkasten/Introduction to RL.md",
     "Zettelkasten/Matrix Calculus.md",
     "Zettelkasten/6 Hacks on Design.md",
+    "Zettelkasten/Survery on LLM.md",
+    "Zettelkasten/Universal Approximation theorem.md",
+    "Zettelkasten/Negative Log Likelihood.md",
+    "Zettelkasten/Q-Learning.md",
+    "Zettelkasten/Solving System of Linear Equations.md",
+    "Zettelkasten/Vision Transformers.md",
+    "Zettelkasten/CLIP.md",
+    "Zettelkasten/Gaming-influenced mouse behavior.md",
     "Zettelkasten/Focal loss.md",
+    "Zettelkasten/Java Spring.md",
+    "Files/Pasted image 20240802021304.png",
+    "Files/Pasted image 20240802021241.png",
+    "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+    "Reference notes/CS224n.md",
+    "Reference notes/Large Language Model.md",
     "Zettelkasten/MLP.md",
     "Reference notes/High-Dimensional Probability.md",
     "Reference notes/Information Theory.md",
-    "Zettelkasten/CLIP.md",
-    "Zettelkasten/Solving System of Linear Equations.md",
-    "Zettelkasten/Universal Approximation theorem.md",
-    "Zettelkasten/Introduction to RL.md",
-    "Zettelkasten/Java Spring.md",
-    "Zettelkasten/Q-Learning.md",
-    "Zettelkasten/Negative Log Likelihood.md",
-    "Zettelkasten/Gaming-influenced mouse behavior.md",
-    "Zettelkasten/Vision Transformers.md",
     "Zettelkasten/Binary Cross Entropy Loss.md",
-    "Zettelkasten/Survery on LLM.md",
     "Reference notes/Backend Development.md",
     "Reference notes/Linear Algebra.md",
     "Templates/Atomic.md",
-    "Templates/References.md",
     "Reference notes/Loss Fucntion.md",
     "Zettelkasten/Matrix Calculus (ex).md",
-    "Zettelkasten/Large.md",
     "Reference notes/1301.3781v3.pdf",
     "Reference notes/VQA_paper.pdf",
-    "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Files/Pasted image 20240717015839.png",
     "Files/Pasted image 20240717021105.png",
     "200 Contest notes/202 AI contest",
@@ -223,8 +231,6 @@
     "Files/Pasted image 20240801152516.png",
     "Files/Pasted image 20240719164456.png",
     "Files/Pasted image 20240713102158.png",
-    "Files/Pasted image 20240801051356.png",
-    "Files/Pasted image 20240731173142.png",
-    "Deep Learning/Coding stuff/Pasted image 20240715170728.png"
+    "Files/Pasted image 20240801051356.png"
   ]
 }
