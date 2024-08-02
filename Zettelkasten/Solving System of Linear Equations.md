@@ -22,15 +22,16 @@
 If $\mathbf{A}$ is not a square matrix, we can use this transformation 
 $$
 \mathbf{Ax} = \mathbf{b} 
-
 $$
 ### Exercise
 >[!question]- What is the idea of "closure" ?
+?
 >This is the question: What is the set of all things that can result from my proposed operations
 >In case of vector $\implies$ What is the set of vectors that can result by starting with a small set of vectors, and adding to each other and scaling them ?
 
 
 >[!question]- What is the matrix $A$ called when it does possess an inverse $A^{-1}$
+?
 >$A$ is called *regular/invertible/nonsingular*
 
 ### References

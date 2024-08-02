@@ -32,6 +32,7 @@ It just the tools that helps us understand about the system and provide several 
  >[!question]- How to inject custom application properties
 ?
 ![[Pasted image 20240802021304.png]]
+<!--SR:!2024-08-05,3,250-->
 
 >[!question]- How to decide which log level to use
 ?
@@ -42,6 +43,7 @@ It just the tools that helps us understand about the system and provide several 
 >[!question]- What you can change in Core Properties
 ?
 Log level and log file path, log file name
+<!--SR:!2024-08-05,3,250-->
 
 >[!question]- What you can change in Web Properties
 ?
@@ -50,9 +52,10 @@ Log level and log file path, log file name
 >server.port=7070
 >// Context path of the application
 >server.servlet.context-path=/my-silly-app
->// Session imeout 
+>// Session imeout
 >server.servlet.session.timeout=15m
 >```
+<!--SR:!2024-08-05,3,250-->
 
 >[!question]- What can you change in Actuator Properties
 ?
@@ -63,14 +66,16 @@ Log level and log file path, log file name
 >// Base path for actuator endpoints
 >management.endpoints.web.base-path=/actuator
 >```
+<!--SR:!2024-08-05,3,250-->
 
 >[!question]- What can you change in Security Properties
 ?
 >```java
->// Default user name 
+>// Default user name
 >spring.security.user.name=admin
 >spring.security.user.password=topsecret
 >```
+<!--SR:!2024-08-05,3,250-->
 
 >[!question]- What can you change in Data Properties
 ?
@@ -82,6 +87,7 @@ Log level and log file path, log file name
 >// Login password of the database
 >spring.datasource.password=tiger
 >```
+<!--SR:!2024-08-05,3,250-->
 
 ### References
 

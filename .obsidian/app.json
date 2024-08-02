@@ -14,7 +14,7 @@
   "showInlineTitle": false,
   "promptDelete": true,
   "showRibbon": true,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,

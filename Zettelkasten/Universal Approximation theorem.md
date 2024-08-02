@@ -1,6 +1,6 @@
 **202408020140**
-**Status: ** #ML #Mathematics #deeplearning 
-**Tags: ** 
+**Status:**  #ML #Mathematics #deeplearning 
+**Tags:** 
 
 <hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
 
