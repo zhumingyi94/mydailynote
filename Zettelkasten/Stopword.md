@@ -2,11 +2,11 @@
 **Status: ** #flashcards 
 **Tags: ** [[NLP]]
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 # Stopword
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key note
 **<font color="#00b050">Stop words</font>** are common words that appear frequently in text data but **<font color="#00b050">carry little meaning</font>**. When start text processing, we should **<font color="#00b050">remove stop words</font>**

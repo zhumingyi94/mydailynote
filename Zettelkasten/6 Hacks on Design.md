@@ -2,13 +2,13 @@
 **Status:** #design
 **Tags:** 
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 #  6 Hacks on Design
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key notes
-- **Tips 1:** x1.1 - 1.2 for headings, x1.3 - 1.5 for body texts
+- **Tips 1:** x1.1 - 1.2 for headings, x1.3 - 1.5 for body texts for line-height
 
 - **Tips 2:** -1% $\rightarrow$ -2% for headings
 

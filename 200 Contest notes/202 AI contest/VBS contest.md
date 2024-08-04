@@ -11,4 +11,24 @@
 ![[Pasted image 20240712175219.png]]
 		3. Q&A: Trong sự kiện có tính chất A, B, C; người nhân vật mặc áo màu gì ? 
 
+![[Pasted image 20240803091403.png]]
 [aimh-lab/visione: An AI-powered interactive video retrieval system (github.com)](https://github.com/aimh-lab/visione/)
+
+Mọi năm cung cấp CLIP_Feat32
+
+Video Graph, query -> graph so với subgraph (video scene graph retrieval), Scene graph grouding
+OWL-ViT
+
+SOM relevant weighted => Hiển thị kết quả truy vấn 
+![[Pasted image 20240803112541.png]]
+Early fusion (maybe better than late fusion)
+
+
+![[Pasted image 20240803115121.png]]
+
+
+ImageBind -> Meta
+![[Pasted image 20240803115406.png]]
+![[Pasted image 20240803115451.png]]
+![[Pasted image 20240803115552.png]]
+![[Pasted image 20240803115600.png]]

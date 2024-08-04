@@ -2,10 +2,10 @@
 **Status:** #flashcards 
 **Tags:** 
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 # Matrix Calculus
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key note
 ##### Generalization of Jacobian

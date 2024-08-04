@@ -2,10 +2,10 @@
 **Status: **  #flashcards 
 **Tags: ** [[Reference notes/NLP]]
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 # TF-IDF
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key note
 <font color="#00b050">**TF-IDF**</font> stands for **<font color="#00b050">Term Frequency Inverse Document Frequency</font>** of records

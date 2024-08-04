@@ -1,11 +1,12 @@
 **Status: ** #idea
 **Tags: ** 
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 # CLIP
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key note
 - Các task CLIP tốt:

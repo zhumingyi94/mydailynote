@@ -2,11 +2,10 @@
 **Status:** #idea
 **Tags:** 
 
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 # MLP
-
-<hr style="border: none; height: 2px; background-color: #39FF14; margin: 20px 0;">
+<hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Key note:
 - When we deal with image, it's better to scale down /255, this can help exploding gradient problem

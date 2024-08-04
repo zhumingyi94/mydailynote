@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c813092988b817e",
+        "id": "74550363b95f39fc",
         "type": "tabs",
         "children": [
           {
-            "id": "28aca2a30c32654c",
+            "id": "e86477e15c0e65dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Solving System of Linear Equations.md",
+                "file": "100 Personal Blog/index.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "074798ed3e9c5c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Solving System of Linear Equations.md",
+                "file": "100 Personal Blog/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Solving System of Linear Equations.md",
+                "file": "100 Personal Blog/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Solving System of Linear Equations.md"
+                "file": "100 Personal Blog/index.md"
               }
             }
           },
@@ -191,54 +179,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "28aca2a30c32654c",
+  "active": "e86477e15c0e65dd",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Solving System of Linear Equations.md",
-    "README.md",
-    "Reference notes/Linear Algebra.md",
-    "Reference notes/Loss Fucntion.md",
-    "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
-    "Reference notes/Large Language Model.md",
-    "Zettelkasten/Universal Approximation theorem.md",
-    "Zettelkasten/Stopword.md",
-    "Zettelkasten/Matrix Calculus.md",
-    "Zettelkasten/TF-IDF.md",
-    "Reference notes/NLP.md",
-    "Reference notes/VQA_paper.pdf",
-    "Reference notes/CS224n.md",
-    "Reference notes/Backend Development.md",
-    "References notes/NLP.md",
-    "References notes",
-    "References note/NLP.md",
-    "References note",
-    "Templates/Atomic.md",
-    "Zettelkasten/CLIP.md",
-    "Templates/References.md",
-    "Templates/Daily note.md",
-    "500 Daily/2024-08-02.md",
-    "Zettelkasten/2024-08-02.md",
-    "500 Daily",
-    "Zettelkasten/Java Spring.md",
+    "100 Personal Blog/index.md",
+    "100 Personal Blog/index.md",
+    "100 Personal Blog/index (fix grammar).md",
+    "Files/Pasted image 20240805045846.png",
+    "Files/Pasted image 20240805045810.png",
+    "Files/Pasted image 20240805045725.png",
+    "Files/Pasted image 20240805045617.png",
     "Zettelkasten/Q-Learning.md",
+    "Zettelkasten/Universal Approximation theorem.md",
+    "Zettelkasten/Vision Transformers.md",
+    "Zettelkasten/Solving System of Linear Equations.md",
+    "Reference notes/Computer Vision.md",
+    "Reference notes/Linear Algebra.md",
+    "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
+    "Reference notes/VQA_paper.pdf",
+    "Files/Pasted image 20240805045200.png",
+    "Files/Pasted image 20240805045128.png",
+    "Files/Pasted image 20240805045111.png",
+    "Files/Pasted image 20240805044422.png",
+    "Files/Pasted image 20240805044206.png",
+    "Files/Pasted image 20240805044153.png",
+    "Zettelkasten/6 Hacks on Design.md",
+    "README.md",
+    "Reference notes/Information Theory.md",
+    "Reference notes/1301.3781v3.pdf",
+    "Zettelkasten/Focal loss.md",
+    "Zettelkasten/Java Spring.md",
     "Zettelkasten/Negative Log Likelihood.md",
-    "Zettelkasten/MLP.md",
-    "Zettelkasten/Introduction to RL.md",
+    "Zettelkasten/Gaming-influenced mouse behavior.md",
+    "Zettelkasten/Few-shot Learning.md",
+    "Zettelkasten/CLIP.md",
+    "Zettelkasten/TF-IDF.md",
+    "500 Daily/2024-08-02.md",
+    "Zettelkasten/Survery on LLM.md",
+    "Zettelkasten/Stopword.md",
+    "Zettelkasten/Siamese network.md",
+    "Zettelkasten/Triplet Loss.md",
+    "400 University/Introduction.md",
+    "400 University/Bài tập lớn.md",
+    "100 Personal Blog",
+    "References notes",
+    "References note",
+    "500 Daily",
     "Zettelkasten",
     "Templates",
-    "Reference notes/1301.3781v3.pdf",
     "Reference notes",
-    "Files/Pasted image 20240802021304.png",
-    "Files/Pasted image 20240802021241.png",
-    "Files/Pasted image 20240801161308.png",
-    "Files/Pasted image 20240801154539.png",
-    "Files/Pasted image 20240801152516.png",
-    "Files/Pasted image 20240801051356.png",
-    "Files/Pasted image 20240731181535.png",
-    "Files/Pasted image 20240731173142.png",
-    "Files/Pasted image 20240721133254.png",
-    "Files/Pasted image 20240719164456.png",
-    "Files",
     "AI Roadmaps.canvas"
   ]
 }
