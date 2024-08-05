@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e86477e15c0e65dd",
+            "id": "d7be002aa6672ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Personal Blog/index.md",
-                "mode": "preview",
+                "file": "Zettelkasten/Automatic Differentiation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Personal Blog/index.md",
+                "file": "Zettelkasten/Automatic Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Personal Blog/index.md",
+                "file": "Zettelkasten/Automatic Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Personal Blog/index.md"
+                "file": "Zettelkasten/Automatic Differentiation.md"
               }
             }
           },
@@ -176,14 +176,22 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e86477e15c0e65dd",
+  "active": "d7be002aa6672ef4",
   "lastOpenFiles": [
-    "100 Personal Blog/index.md",
+    "Zettelkasten/Matrix Calculus.md",
+    "Zettelkasten/Automatic Differentiation.md",
+    "500 Daily/2024-08-06.md",
     "100 Personal Blog/index.md",
     "100 Personal Blog/index (fix grammar).md",
+    "Zettelkasten/Solving System of Linear Equations.md",
+    "500 Daily/Untitled.md",
+    "Zettelkasten/Survery on LLM.md",
+    "Zettelkasten/TF-IDF.md",
+    "500 Daily/2024-08-02.md",
     "Files/Pasted image 20240805045846.png",
     "Files/Pasted image 20240805045810.png",
     "Files/Pasted image 20240805045725.png",
@@ -191,7 +199,6 @@
     "Zettelkasten/Q-Learning.md",
     "Zettelkasten/Universal Approximation theorem.md",
     "Zettelkasten/Vision Transformers.md",
-    "Zettelkasten/Solving System of Linear Equations.md",
     "Reference notes/Computer Vision.md",
     "Reference notes/Linear Algebra.md",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
@@ -212,14 +219,8 @@
     "Zettelkasten/Gaming-influenced mouse behavior.md",
     "Zettelkasten/Few-shot Learning.md",
     "Zettelkasten/CLIP.md",
-    "Zettelkasten/TF-IDF.md",
-    "500 Daily/2024-08-02.md",
-    "Zettelkasten/Survery on LLM.md",
     "Zettelkasten/Stopword.md",
     "Zettelkasten/Siamese network.md",
-    "Zettelkasten/Triplet Loss.md",
-    "400 University/Introduction.md",
-    "400 University/Bài tập lớn.md",
     "100 Personal Blog",
     "References notes",
     "References note",

@@ -1,5 +1,5 @@
 **202408020144**
-**Status: ** #Mathematics #LinearAlgebra 
+**Status:** #Mathematics #LinearAlgebra 
 **Tags: ** [[Linear Algebra]]
 
 <hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">

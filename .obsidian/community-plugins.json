@@ -6,9 +6,9 @@
   "obsidian-excalidraw-plugin",
   "pdf-plus",
   "tag-wrangler",
-  "colored-tags",
   "editing-toolbar",
   "obsidian-spaced-repetition",
   "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "colored-tags"
 ]
