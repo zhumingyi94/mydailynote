@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7be002aa6672ef4",
+            "id": "9e1030225e351618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Automatic Differentiation.md",
+                "file": "Zettelkasten/Matrix Calculus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63e7c71522c11bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Convolution Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7a0caff204e94a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Receptive Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Automatic Differentiation.md",
+                "file": "Zettelkasten/Matrix Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Automatic Differentiation.md",
+                "file": "Zettelkasten/Matrix Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Automatic Differentiation.md"
+                "file": "Zettelkasten/Matrix Calculus.md"
               }
             }
           },
@@ -180,11 +204,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d7be002aa6672ef4",
+  "active": "9e1030225e351618",
   "lastOpenFiles": [
-    "Zettelkasten/Matrix Calculus.md",
-    "Zettelkasten/Automatic Differentiation.md",
+    "Zettelkasten/Latent Space Visualization.md",
+    "Zettelkasten/Receptive Field.md",
+    "Files/Pasted image 20240806152520.png",
+    "200 Contest notes/202 AI contest/VBS contest.md",
+    "Zettelkasten/Backpropagation.md",
+    "Files/Pasted image 20240806130954.png",
+    "Zettelkasten/Convolution Neural Network.md",
+    "Files/Pasted image 20240806113651.png",
+    "Files/Pasted image 20240806112843.png",
+    "Files/Pasted image 20240806102321.png",
+    "Templates/Blog.md",
     "500 Daily/2024-08-06.md",
+    "Zettelkasten/Automatic Differentiation.md",
+    "Zettelkasten/Matrix Calculus.md",
     "100 Personal Blog/index.md",
     "100 Personal Blog/index (fix grammar).md",
     "Zettelkasten/Solving System of Linear Equations.md",
@@ -204,23 +239,11 @@
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Files/Pasted image 20240805045200.png",
-    "Files/Pasted image 20240805045128.png",
-    "Files/Pasted image 20240805045111.png",
-    "Files/Pasted image 20240805044422.png",
-    "Files/Pasted image 20240805044206.png",
-    "Files/Pasted image 20240805044153.png",
     "Zettelkasten/6 Hacks on Design.md",
     "README.md",
     "Reference notes/Information Theory.md",
     "Reference notes/1301.3781v3.pdf",
     "Zettelkasten/Focal loss.md",
-    "Zettelkasten/Java Spring.md",
-    "Zettelkasten/Negative Log Likelihood.md",
-    "Zettelkasten/Gaming-influenced mouse behavior.md",
-    "Zettelkasten/Few-shot Learning.md",
-    "Zettelkasten/CLIP.md",
-    "Zettelkasten/Stopword.md",
-    "Zettelkasten/Siamese network.md",
     "100 Personal Blog",
     "References notes",
     "References note",
