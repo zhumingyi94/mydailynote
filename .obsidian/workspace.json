@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d63e7c71522c11bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Convolution Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7a0caff204e94a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Receptive Field.md",
+                "file": "Zettelkasten/Backpropagation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
+                "file": "Zettelkasten/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
+                "file": "Zettelkasten/Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md"
+                "file": "Zettelkasten/Backpropagation.md"
               }
             }
           },
@@ -206,44 +182,45 @@
   },
   "active": "9e1030225e351618",
   "lastOpenFiles": [
+    "Zettelkasten/Convolution Neural Network.md",
     "Zettelkasten/Latent Space Visualization.md",
+    "500 Daily/2024-08-06.md",
+    "500 Daily/2024-08-08.md",
+    "500 Daily/2024-08-07.md",
+    "500 Daily/2024-08-02.md",
+    "Zettelkasten/Universal Approximation theorem.md",
+    "Zettelkasten/Solving System of Linear Equations.md",
+    "Zettelkasten/Stopword.md",
+    "Zettelkasten/Siamese network.md",
+    "Zettelkasten/Introduction to RL.md",
+    "Zettelkasten/Focal loss.md",
+    "Zettelkasten/6 Hacks on Design.md",
+    "Zettelkasten/Automatic Differentiation.md",
     "Zettelkasten/Receptive Field.md",
+    "Zettelkasten/Matrix Calculus.md",
     "Files/Pasted image 20240806152520.png",
     "200 Contest notes/202 AI contest/VBS contest.md",
     "Zettelkasten/Backpropagation.md",
     "Files/Pasted image 20240806130954.png",
-    "Zettelkasten/Convolution Neural Network.md",
     "Files/Pasted image 20240806113651.png",
     "Files/Pasted image 20240806112843.png",
     "Files/Pasted image 20240806102321.png",
     "Templates/Blog.md",
-    "500 Daily/2024-08-06.md",
-    "Zettelkasten/Automatic Differentiation.md",
-    "Zettelkasten/Matrix Calculus.md",
     "100 Personal Blog/index.md",
     "100 Personal Blog/index (fix grammar).md",
-    "Zettelkasten/Solving System of Linear Equations.md",
     "500 Daily/Untitled.md",
     "Zettelkasten/Survery on LLM.md",
     "Zettelkasten/TF-IDF.md",
-    "500 Daily/2024-08-02.md",
     "Files/Pasted image 20240805045846.png",
     "Files/Pasted image 20240805045810.png",
     "Files/Pasted image 20240805045725.png",
     "Files/Pasted image 20240805045617.png",
     "Zettelkasten/Q-Learning.md",
-    "Zettelkasten/Universal Approximation theorem.md",
     "Zettelkasten/Vision Transformers.md",
-    "Reference notes/Computer Vision.md",
-    "Reference notes/Linear Algebra.md",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Files/Pasted image 20240805045200.png",
-    "Zettelkasten/6 Hacks on Design.md",
-    "README.md",
-    "Reference notes/Information Theory.md",
     "Reference notes/1301.3781v3.pdf",
-    "Zettelkasten/Focal loss.md",
     "100 Personal Blog",
     "References notes",
     "References note",
