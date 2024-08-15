@@ -28,7 +28,9 @@
     "ComputerVision": 16,
     "HelloWorld": 17,
     "machinelearning": 18,
-    "visualization": 19
+    "visualization": 19,
+    "mlops": 20,
+    "business": 21
   },
   "_version": 3
 }
