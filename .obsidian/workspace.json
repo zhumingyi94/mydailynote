@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
+                "file": "500 Daily/2024-08-16.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e714f46f4402437c",
+            "id": "34223a64b4419b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
+                "file": "500 Daily/2024-08-16.md",
                 "mode": "source",
                 "source": true
               }
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "14ef38c309080231",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
+                "file": "500 Daily/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
+                "file": "500 Daily/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md"
+                "file": "500 Daily/2024-08-16.md"
               }
             }
           },
@@ -193,11 +192,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e714f46f4402437c",
+  "active": "34223a64b4419b0c",
   "lastOpenFiles": [
-    "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
-    "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
+    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
     "500 Daily/2024-08-16.md",
+    "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
+    "Zettelkasten/Vision Transformers.md",
+    "Zettelkasten/AI discover problem.md",
+    "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
     "500 Daily/2024-08-11.md",
     "Zettelkasten/Pretraining.md",
     "Zettelkasten/Matrix Calculus.md",
@@ -219,9 +221,6 @@
     "Zettelkasten/Gaming-influenced mouse behavior.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Thiết kế hệ thống MLOps.md",
-    "Reference notes/MLOps.md",
-    "Templates/Atomic.md",
-    "Zettelkasten/Backpropagation.md",
     "Files/Pasted image 20240806152520.png",
     "Files/Pasted image 20240806130954.png",
     "Files/Pasted image 20240806113651.png",

@@ -1,5 +1,5 @@
 **202408161034**
-**Status:** #flashcards #unistudy
+**Status:** #unistudy
 **Tags:** 
 <hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
