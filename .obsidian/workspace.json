@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "74550363b95f39fc",
+        "id": "dfc0ab5c7b830d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4256bdd5adffc8",
+            "id": "ec331f0a21dff7a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Daily/2024-08-16.md",
+                "file": "Zettelkasten/CLIP.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "34223a64b4419b0c",
+            "id": "9f10d201c52921ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Daily/2024-08-16.md",
+                "file": "Zettelkasten/Chấm công tạo habit.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "15c9eb3a011d6962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Q-Learning.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Daily/2024-08-16.md",
+                "file": "Zettelkasten/Chấm công tạo habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "500 Daily/2024-08-16.md",
+                "file": "Zettelkasten/Chấm công tạo habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 Daily/2024-08-16.md"
+                "file": "Zettelkasten/Chấm công tạo habit.md"
               }
             }
           },
@@ -167,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,35 +205,36 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "34223a64b4419b0c",
+  "active": "5cc4c0fb6e509469",
   "lastOpenFiles": [
-    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
-    "500 Daily/2024-08-16.md",
-    "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
-    "Zettelkasten/Vision Transformers.md",
-    "Zettelkasten/AI discover problem.md",
-    "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
-    "500 Daily/2024-08-11.md",
-    "Zettelkasten/Pretraining.md",
-    "Zettelkasten/Matrix Calculus.md",
-    "Zettelkasten/Java Spring.md",
-    "Zettelkasten/Focal loss.md",
-    "Zettelkasten/Automatic Differentiation.md",
-    "Zettelkasten/6 Hacks on Design.md",
-    "Zettelkasten/Few-shot Learning.md",
-    "Zettelkasten/Introduction to RL.md",
-    "Zettelkasten/MLP.md",
-    "Zettelkasten/App giúp người dùng phát hiện thông tin hay ho họ cần biết.md",
     "Zettelkasten/CLIP.md",
-    "Zettelkasten/Accounting.md",
-    "500 Daily/2024-08-14.md",
-    "Zettelkasten/Triplet Loss.md",
+    "Zettelkasten/Chấm công tạo habit.md",
+    "500 Daily/2024-08-19.md",
+    "Zettelkasten/Gamify Leetcde.md",
+    "500 Daily/2024-08-18.md",
+    "Zettelkasten/Xác thực wifi bằng sinh trắc học.md",
+    "Zettelkasten/Q-Learning.md",
+    "500 Daily/2024-08-06.md",
+    "Zettelkasten/Gamify Yourlife.md",
+    "Zettelkasten/SoftIdeas.md",
+    "Zettelkasten/Định vị thương hiệu cá nhân.md",
+    "Zettelkasten/LLM on phone.md",
+    "Files/Pasted image 20240817115413.png",
+    "500 Daily/2024-08-16.md",
+    "500 Daily/2024-08-17.md",
+    "Zettelkasten/Ứng dụng đọc paper trên android.md",
     "500 Daily/2024-08-09.md",
-    "500 Daily/2024-08-08.md",
-    "Files/Pasted image 20240808120646.png",
-    "Zettelkasten/Gaming-influenced mouse behavior.md",
+    "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
+    "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
+    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
+    "Zettelkasten/AI discover problem.md",
+    "500 Daily/2024-08-15.md",
+    "500 Daily/2024-08-13.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Thiết kế hệ thống MLOps.md",
+    "Zettelkasten/Pretraining.md",
+    "Zettelkasten/App giúp người dùng phát hiện thông tin hay ho họ cần biết.md",
+    "Files/Pasted image 20240808120646.png",
     "Files/Pasted image 20240806152520.png",
     "Files/Pasted image 20240806130954.png",
     "Files/Pasted image 20240806113651.png",
@@ -229,7 +243,6 @@
     "Files/Pasted image 20240805045846.png",
     "Files/Pasted image 20240805045810.png",
     "Files/Pasted image 20240805045725.png",
-    "Files/Pasted image 20240805045617.png",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Reference notes/1301.3781v3.pdf",
