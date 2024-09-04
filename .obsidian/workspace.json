@@ -4,41 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc0ab5c7b830d1e",
+        "id": "c3f15b45da7a016d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec331f0a21dff7a8",
+            "id": "3035368fa1d7e065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Zettelkasten/CLIP.md",
-                "mode": "source",
-                "source": true
+                "file": "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
+                "page": 3,
+                "left": -19,
+                "top": 152,
+                "zoom": 0.7941176470588237
               }
             }
           },
           {
-            "id": "9f10d201c52921ab",
+            "id": "2aab4888039c8f4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Chấm công tạo habit.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "15c9eb3a011d6962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Q-Learning.md",
-                "mode": "source",
+                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Chấm công tạo habit.md",
+                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Chấm công tạo habit.md",
+                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Chấm công tạo habit.md"
+                "file": "Zettelkasten/Least Squares, PCA, SVD.md"
               }
             }
           },
@@ -207,33 +197,34 @@
   },
   "active": "5cc4c0fb6e509469",
   "lastOpenFiles": [
-    "Zettelkasten/CLIP.md",
-    "Zettelkasten/Chấm công tạo habit.md",
-    "500 Daily/2024-08-19.md",
-    "Zettelkasten/Gamify Leetcde.md",
-    "500 Daily/2024-08-18.md",
-    "Zettelkasten/Xác thực wifi bằng sinh trắc học.md",
+    "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
+    "Zettelkasten/Least Squares, PCA, SVD.md",
+    "Zettelkasten/QuickStore.md",
+    "400 Books, resources, PDFs/Domain Specific Hardware Accelerators.pdf",
+    "400 University/Introduction.md",
+    "400 University/Quản lý tài chính cá nhân 1.md",
+    "400 University/Bài tập lớn.md",
+    "500 Weekly/1.9.md",
+    "Templates/Daily note.md",
+    "500 Weekly/2024-08-02.md",
+    "500 Weekly/2024-08-10.md",
+    "500 Weekly/2024-08-11.md",
+    "500 Weekly/2024-08-08.md",
+    "500 Weekly/2024-09-03.md",
+    "500 Weekly/2024-08-22.md",
+    "500 Weekly/2024-08-06.md",
+    "500 Weekly/2024-08-17.md",
+    "500 Weekly/2024-08-14.md",
+    "500 Weekly/2024-08-15.md",
+    "500 Weekly/2024-08-07.md",
+    "500 Weekly/2024-08-13.md",
+    "500 Weekly/2024-08-18.md",
+    "500 Weekly/2024-08-19.md",
+    "500 Weekly/2024-08-31.md",
+    "500 Weekly/2024-09-04.md",
+    "Zettelkasten/ImJobs.md",
     "Zettelkasten/Q-Learning.md",
-    "500 Daily/2024-08-06.md",
-    "Zettelkasten/Gamify Yourlife.md",
-    "Zettelkasten/SoftIdeas.md",
-    "Zettelkasten/Định vị thương hiệu cá nhân.md",
-    "Zettelkasten/LLM on phone.md",
     "Files/Pasted image 20240817115413.png",
-    "500 Daily/2024-08-16.md",
-    "500 Daily/2024-08-17.md",
-    "Zettelkasten/Ứng dụng đọc paper trên android.md",
-    "500 Daily/2024-08-09.md",
-    "Zettelkasten/Đi tìm sứ mệnh cuộc đời.md",
-    "Zettelkasten/Lập kế hoạch và quản lý thời gian.md",
-    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
-    "Zettelkasten/AI discover problem.md",
-    "500 Daily/2024-08-15.md",
-    "500 Daily/2024-08-13.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Thiết kế hệ thống MLOps.md",
-    "Zettelkasten/Pretraining.md",
-    "Zettelkasten/App giúp người dùng phát hiện thông tin hay ho họ cần biết.md",
     "Files/Pasted image 20240808120646.png",
     "Files/Pasted image 20240806152520.png",
     "Files/Pasted image 20240806130954.png",
@@ -249,10 +240,8 @@
     "100 Personal Blog",
     "References notes",
     "References note",
-    "500 Daily",
+    "500 Weekly",
     "Zettelkasten",
-    "Templates",
-    "Reference notes",
     "AI Roadmaps.canvas"
   ]
 }

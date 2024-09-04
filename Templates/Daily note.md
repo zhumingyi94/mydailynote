@@ -1,3 +1,3 @@
-# Daily Tasks
+# Weekly Tasks
 - [ ] Task 1
 - [ ] Task 2

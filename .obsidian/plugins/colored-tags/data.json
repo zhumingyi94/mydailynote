@@ -30,7 +30,8 @@
     "machinelearning": 18,
     "visualization": 19,
     "mlops": 20,
-    "unistudy": 21
+    "unistudy": 21,
+    "note": 22
   },
   "_version": 3
 }
