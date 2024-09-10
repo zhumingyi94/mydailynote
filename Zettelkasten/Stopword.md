@@ -24,6 +24,7 @@ stop_words = set(stopwords.words('english'))
 
 filtered_sentence = [w for w in wordDictA if not w in stop_words]
 ```
+
 ### Exercise
 >[!question]- Implement remove stop words for Vietnamese
 

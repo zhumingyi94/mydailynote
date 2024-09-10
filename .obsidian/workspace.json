@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3035368fa1d7e065",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
-                "page": 3,
-                "left": -19,
-                "top": 152,
-                "zoom": 0.7941176470588237
-              }
-            }
-          },
-          {
-            "id": "2aab4888039c8f4b",
+            "id": "1102d3279a579229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
-                "mode": "preview",
+                "file": "200 Contest notes/DENSO Hackathon.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
+                "file": "200 Contest notes/DENSO Hackathon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Least Squares, PCA, SVD.md",
+                "file": "200 Contest notes/DENSO Hackathon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Least Squares, PCA, SVD.md"
+                "file": "200 Contest notes/DENSO Hackathon.md"
               }
             }
           },
@@ -195,16 +180,26 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5cc4c0fb6e509469",
+  "active": "1102d3279a579229",
   "lastOpenFiles": [
-    "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
+    "Files/Pasted image 20240910081613.png",
+    "Files/Pasted image 20240910081550.png",
+    "500 Weekly/9.9.md",
+    "200 Contest notes/DENSO Hackathon.md",
+    "Excalidraw/File System Structure.md",
+    "README.md",
+    "Zettelkasten/Siamese network.md",
+    "Zettelkasten/Triplet Loss.md",
+    "Zettelkasten/TF-IDF.md",
+    "Zettelkasten/Stopword.md",
+    "Excalidraw",
     "Zettelkasten/Least Squares, PCA, SVD.md",
-    "Zettelkasten/QuickStore.md",
+    "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
     "400 Books, resources, PDFs/Domain Specific Hardware Accelerators.pdf",
+    "Zettelkasten/QuickStore.md",
     "400 University/Introduction.md",
     "400 University/Quản lý tài chính cá nhân 1.md",
     "400 University/Bài tập lớn.md",
-    "500 Weekly/1.9.md",
     "Templates/Daily note.md",
     "500 Weekly/2024-08-02.md",
     "500 Weekly/2024-08-10.md",
@@ -217,13 +212,6 @@
     "500 Weekly/2024-08-14.md",
     "500 Weekly/2024-08-15.md",
     "500 Weekly/2024-08-07.md",
-    "500 Weekly/2024-08-13.md",
-    "500 Weekly/2024-08-18.md",
-    "500 Weekly/2024-08-19.md",
-    "500 Weekly/2024-08-31.md",
-    "500 Weekly/2024-09-04.md",
-    "Zettelkasten/ImJobs.md",
-    "Zettelkasten/Q-Learning.md",
     "Files/Pasted image 20240817115413.png",
     "Files/Pasted image 20240808120646.png",
     "Files/Pasted image 20240806152520.png",
@@ -233,7 +221,6 @@
     "Files/Pasted image 20240806102321.png",
     "Files/Pasted image 20240805045846.png",
     "Files/Pasted image 20240805045810.png",
-    "Files/Pasted image 20240805045725.png",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Reference notes/1301.3781v3.pdf",
@@ -241,7 +228,6 @@
     "References notes",
     "References note",
     "500 Weekly",
-    "Zettelkasten",
     "AI Roadmaps.canvas"
   ]
 }
