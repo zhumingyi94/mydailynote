@@ -186,3 +186,5 @@ $C(\mathbf{w}, b, X, \mathbf{y}) =\frac{1}{N}\sum_{i=1}^N(y_{i} - max(0, \mathbf
 >[!question]- Calculate this $\frac{ \partial  }{ \partial x }(A \cdot ((A \cdot x + b) \odot (A \cdot x + b)) + b) = 2A \,diag(Ax+b)\,A$
 
 ### References
+
+

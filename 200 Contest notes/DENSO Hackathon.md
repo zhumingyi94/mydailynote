@@ -23,3 +23,11 @@
 
 ### References
 
+![[Pasted image 20240912202302.png]]
+
+![[Pasted image 20240912202511.png]]
+
+![[Pasted image 20240912204725.png]]
+
+
+AMR - cho các quá trình liên quan vận chuyển, cung cấp nguyên liệu đầu vào cho dây chuyền

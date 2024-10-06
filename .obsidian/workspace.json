@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f15b45da7a016d",
+        "id": "7029e4844c6c1702",
         "type": "tabs",
         "children": [
           {
-            "id": "1102d3279a579229",
+            "id": "4c18a04ab998bca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Contest notes/DENSO Hackathon.md",
+                "file": "Zettelkasten/Softmax.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d766263770662d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Matrix Calculus.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Contest notes/DENSO Hackathon.md",
+                "file": "Zettelkasten/Matrix Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Contest notes/DENSO Hackathon.md",
+                "file": "Zettelkasten/Matrix Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Contest notes/DENSO Hackathon.md"
+                "file": "Zettelkasten/Matrix Calculus.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,54 +193,54 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "1102d3279a579229",
+  "active": "d766263770662d38",
   "lastOpenFiles": [
-    "Files/Pasted image 20240910081613.png",
-    "Files/Pasted image 20240910081550.png",
-    "500 Weekly/9.9.md",
-    "200 Contest notes/DENSO Hackathon.md",
+    "Zettelkasten/Softmax.md",
+    "Zettelkasten/Matrix Calculus.md",
+    "Excalidraw/Drawing 2024-10-06 17.53.50.excalidraw.md",
+    "Files/Pasted image 20241006174143.png",
+    "100 Personal Blog/index.md",
+    "100 Personal Blog/index (fix grammar).md",
+    "Zettelkasten/MDPs, Exact Solution Methods, Max-ent RL.md",
+    "Zettelkasten/Ứng dụng tạo nhanh gái anime cầm sách =))).md",
+    "Files/Pasted image 20241005230444.png",
+    "Files/Pasted image 20241005230435.png",
+    "Zettelkasten/Boltzman Machine.md",
+    "Zettelkasten/Few-shot Learning.md",
+    "Zettelkasten/Online Identification and Tracking of Subspaces from Highly Incomplete Information.md",
     "Excalidraw/File System Structure.md",
-    "README.md",
+    "Excalidraw/Drawing 2024-09-16 22.34.26.excalidraw.md",
+    "400 Books, resources, PDFs/RLbook2020.pdf",
     "Zettelkasten/Siamese network.md",
-    "Zettelkasten/Triplet Loss.md",
-    "Zettelkasten/TF-IDF.md",
-    "Zettelkasten/Stopword.md",
-    "Excalidraw",
-    "Zettelkasten/Least Squares, PCA, SVD.md",
     "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
     "400 Books, resources, PDFs/Domain Specific Hardware Accelerators.pdf",
-    "Zettelkasten/QuickStore.md",
-    "400 University/Introduction.md",
-    "400 University/Quản lý tài chính cá nhân 1.md",
-    "400 University/Bài tập lớn.md",
-    "Templates/Daily note.md",
-    "500 Weekly/2024-08-02.md",
-    "500 Weekly/2024-08-10.md",
-    "500 Weekly/2024-08-11.md",
-    "500 Weekly/2024-08-08.md",
-    "500 Weekly/2024-09-03.md",
-    "500 Weekly/2024-08-22.md",
-    "500 Weekly/2024-08-06.md",
-    "500 Weekly/2024-08-17.md",
-    "500 Weekly/2024-08-14.md",
-    "500 Weekly/2024-08-15.md",
-    "500 Weekly/2024-08-07.md",
+    "Zettelkasten/Multi-armed Bandits.md",
+    "Zettelkasten/Ứng dụng đọc paper trên android.md",
+    "400 Books, resources, PDFs/DL_2.2.140924_Reinforcement Learning - An Introduction.pdf",
+    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
+    "Zettelkasten/Solving System of Linear Equations.md",
+    "Zettelkasten/Automatic Differentiation.md",
+    "Zettelkasten/6 Hacks on Design.md",
+    "Zettelkasten/Focal loss.md",
+    "Zettelkasten/Universal Approximation theorem.md",
+    "Zettelkasten/Survery on LLM.md",
+    "Zettelkasten/Negative Log Likelihood.md",
+    "Zettelkasten/Vision Transformers.md",
+    "Zettelkasten/Java Spring.md",
+    "Zettelkasten/TF-IDF.md",
+    "Files/Pasted Image 20240919233722_180.png",
+    "Files/Pasted image 20240912204725.png",
+    "Files/Pasted image 20240912202511.png",
+    "Files/Pasted image 20240912202302.png",
+    "Files/Pasted image 20240910081613.png",
+    "Files/Pasted image 20240910081550.png",
+    "Excalidraw",
     "Files/Pasted image 20240817115413.png",
-    "Files/Pasted image 20240808120646.png",
-    "Files/Pasted image 20240806152520.png",
-    "Files/Pasted image 20240806130954.png",
-    "Files/Pasted image 20240806113651.png",
-    "Files/Pasted image 20240806112843.png",
-    "Files/Pasted image 20240806102321.png",
-    "Files/Pasted image 20240805045846.png",
-    "Files/Pasted image 20240805045810.png",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Reference notes/1301.3781v3.pdf",
     "100 Personal Blog",
     "References notes",
-    "References note",
-    "500 Weekly",
     "AI Roadmaps.canvas"
   ]
 }

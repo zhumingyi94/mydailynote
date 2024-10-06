@@ -1,5 +1,5 @@
 **202408020120**
-**Status:** #idea
+**Status:** #ReinforcementLearning
 **Tags:** 
 
 <hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
@@ -8,6 +8,12 @@
 <hr style="border: none; height: 2px; background-color: #000000; margin: 20px 0;">
 
 ### Reinforcement Learning Framework
+
+- Elements of RL:
+	- Policy: a mapping from perceived states of the environment to actions to be taken when in those states
+	- Reward signal: 
+	- Value function: of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state.
+	- Model: mimics the behavior of the environment, allows inferences to be made about how the environment will behave
 MDP
 Observation Space
 Action Space 
