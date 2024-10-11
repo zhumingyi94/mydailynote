@@ -32,6 +32,10 @@ $NewEstimate \leftarrow OldEstimate + StepSize[Target - OldEstimate]$
 - How can you tracking a nonstationary problem
 - How to choose $\{\alpha_{n(a)}\}$ to ensure converge (2.7)
 - 
+$q_{*}(a) = \mathbb{E}[R_{t}|A_{t}=a]$
+
+
+
 ### Exercise
 
 

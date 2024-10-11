@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7029e4844c6c1702",
+        "id": "333d81c7f0d56bcf",
         "type": "tabs",
         "children": [
           {
-            "id": "4c18a04ab998bca2",
+            "id": "8c17ed22f44b5123",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Softmax.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d766263770662d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Matrix Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Matrix Calculus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,49 +172,49 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d766263770662d38",
+  "active": "8c17ed22f44b5123",
   "lastOpenFiles": [
+    "Zettelkasten/Multi-armed Bandits.md",
+    "Zettelkasten/VR Visualize Tensor.md",
+    "Zettelkasten/Online Identification and Tracking of Subspaces from Highly Incomplete Information.md",
+    "Zettelkasten/Ứng dụng tạo nhanh gái anime cầm sách =))).md",
+    "Zettelkasten/MDPs, Exact Solution Methods, Max-ent RL.md",
+    "Zettelkasten/Boltzman Machine.md",
     "Zettelkasten/Softmax.md",
     "Zettelkasten/Matrix Calculus.md",
-    "Excalidraw/Drawing 2024-10-06 17.53.50.excalidraw.md",
+    "README.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/VR space Reading Roo.md",
+    "Zettelkasten/MLP.md",
+    "Zettelkasten/Siamese network.md",
+    "Zettelkasten/Triplet Loss.md",
+    "Zettelkasten/Q-Learning.md",
+    "Zettelkasten/Few-shot Learning.md",
+    "Zettelkasten/TF-IDF.md",
+    "400 Books, resources, PDFs/Domain Specific Hardware Accelerators.pdf",
+    "Zettelkasten/6 Hacks on Design.md",
+    "Zettelkasten/LLM on phone.md",
+    "Zettelkasten/SoftIdeas.md",
+    "Zettelkasten/Xác thực wifi bằng sinh trắc học.md",
+    "Zettelkasten/Gamify Leetcde.md",
+    "Zettelkasten/Backpropagation.md",
+    "Zettelkasten/Universal Approximation theorem.md",
+    "Zettelkasten/Pretraining.md",
+    "Zettelkasten/CLIP.md",
+    "Files/Pasted image 20241006221149.png",
+    "Files/Pasted image 20240712174726.png",
     "Files/Pasted image 20241006174143.png",
-    "100 Personal Blog/index.md",
-    "100 Personal Blog/index (fix grammar).md",
-    "Zettelkasten/MDPs, Exact Solution Methods, Max-ent RL.md",
-    "Zettelkasten/Ứng dụng tạo nhanh gái anime cầm sách =))).md",
     "Files/Pasted image 20241005230444.png",
     "Files/Pasted image 20241005230435.png",
-    "Zettelkasten/Boltzman Machine.md",
-    "Zettelkasten/Few-shot Learning.md",
-    "Zettelkasten/Online Identification and Tracking of Subspaces from Highly Incomplete Information.md",
-    "Excalidraw/File System Structure.md",
-    "Excalidraw/Drawing 2024-09-16 22.34.26.excalidraw.md",
     "400 Books, resources, PDFs/RLbook2020.pdf",
-    "Zettelkasten/Siamese network.md",
     "400 Books, resources, PDFs/Least Squares, PCA, SVD.pdf",
-    "400 Books, resources, PDFs/Domain Specific Hardware Accelerators.pdf",
-    "Zettelkasten/Multi-armed Bandits.md",
-    "Zettelkasten/Ứng dụng đọc paper trên android.md",
     "400 Books, resources, PDFs/DL_2.2.140924_Reinforcement Learning - An Introduction.pdf",
-    "Zettelkasten/Giao diện siêu đơn giản cho người già.md",
-    "Zettelkasten/Solving System of Linear Equations.md",
-    "Zettelkasten/Automatic Differentiation.md",
-    "Zettelkasten/6 Hacks on Design.md",
-    "Zettelkasten/Focal loss.md",
-    "Zettelkasten/Universal Approximation theorem.md",
-    "Zettelkasten/Survery on LLM.md",
-    "Zettelkasten/Negative Log Likelihood.md",
-    "Zettelkasten/Vision Transformers.md",
-    "Zettelkasten/Java Spring.md",
-    "Zettelkasten/TF-IDF.md",
     "Files/Pasted Image 20240919233722_180.png",
     "Files/Pasted image 20240912204725.png",
     "Files/Pasted image 20240912202511.png",
     "Files/Pasted image 20240912202302.png",
     "Files/Pasted image 20240910081613.png",
-    "Files/Pasted image 20240910081550.png",
     "Excalidraw",
-    "Files/Pasted image 20240817115413.png",
     "Reference notes/Thực hành phát triển hệ thống trí tuệ nhân tạo - Phân tích thiết kế.pdf",
     "Reference notes/VQA_paper.pdf",
     "Reference notes/1301.3781v3.pdf",

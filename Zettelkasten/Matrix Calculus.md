@@ -111,7 +111,7 @@ $\frac{ \partial (\mathbf{w+x}) }{ \partial \mathbf{w} } =I$
 $\frac{ \partial (\mathbf{w-x}) }{ \partial \mathbf{w} } = I$
 $\frac{ \partial (\mathbf{w \bigotimes x}) }{ \partial \mathbf{w} } = diag(\mathbf{x})$
 $\frac{ \partial (\mathbf{w \oslash x}) }{ \partial \mathbf{w} } = diag\left( \dots\, \frac{1}{x_{i}} \dots\right)$
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-20,12,270-->
 
 $\frac{ \partial (\mathbf{w+x}) }{ \partial \mathbf{w} } = ?$
 $\frac{ \partial (\mathbf{w-x}) }{ \partial \mathbf{w} } = ?$
@@ -124,7 +124,7 @@ $\frac{ \partial (\mathbf{w \oslash x}) }{ \partial \mathbf{w} } = ?$
 >$\frac{ \partial}{ \partial z }(\mathbf{x} + z) = \vec{1}$
 >$\frac{ \partial  }{ \partial \mathbf{x} }(\mathbf{x}z) = Iz$
 >$\frac{ \partial  }{ \partial z}(\mathbf{x}z) =\mathbf{x}$
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-20,12,270-->
 
 $\frac{ \partial}{ \partial \mathbf{x} }(\mathbf{x} + z) = ?$
 $\frac{ \partial}{ \partial z }(\mathbf{x} + z) = ?$
@@ -136,7 +136,7 @@ $\frac{ \partial  }{ \partial z}(\mathbf{x}z) = ?$
 >**Single-variable rule: **$\frac{dy}{dx} = \frac{dy}{du} \frac{du}{dx}$
 >**Single-variable total-derivative rule:** $\frac{ \partial f(u_{1}, u_{2}\dots,u_{n}) }{ \partial x } = \frac{ \partial y }{ \partial \mathbf{u} } \frac{ \partial \mathbf{u} }{ \partial x }$
 >**Vector rule: ** $\frac{ \partial \mathbf{y} }{ \partial \mathbf{x} } = \frac{ \partial \mathbf{y} }{ \partial \mathbf{g} } \frac{ \partial \mathbf{g} }{ \partial \mathbf{x} }$
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-14,6,250-->
 
 **Single-variable rule: **:
 **Single-variable total-derivative rule:**
@@ -156,7 +156,7 @@ $\frac{ \partial  }{ \partial z}(\mathbf{x}z) = ?$
 1 \qquad \mathbf{w} \cdot \mathbf{x} + b > 0
 \end{cases}
 \end{equation}$
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-18,10,270-->
 
 $\frac{ \partial activation(x) }{ \partial \mathbf{w} } = ?$
 $\frac{ \partial activation(\mathbf{x}) }{ \partial b } = ?$
@@ -178,7 +178,7 @@ $\frac{ \partial activation(\mathbf{x}) }{ \partial b } = ?$
 \frac{2}{N}\sum_{i=1}^{N}e_i&  \mathbf{w} \cdot x_{i} + b > 0
 \end{cases}
 \end{equation}$
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-15,7,250-->
 
 $C(\mathbf{w}, b, X, \mathbf{y}) =\frac{1}{N}\sum_{i=1}^N(y_{i} - max(0, \mathbf{w \cdot \mathbf{x}_{i}+b}))^2= ?$
 
@@ -186,5 +186,3 @@ $C(\mathbf{w}, b, X, \mathbf{y}) =\frac{1}{N}\sum_{i=1}^N(y_{i} - max(0, \mathbf
 >[!question]- Calculate this $\frac{ \partial  }{ \partial x }(A \cdot ((A \cdot x + b) \odot (A \cdot x + b)) + b) = 2A \,diag(Ax+b)\,A$
 
 ### References
-
-

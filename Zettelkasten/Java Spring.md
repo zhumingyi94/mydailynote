@@ -15,7 +15,7 @@
 >[!question]- What is Java Actuator
 ?
 It just the tools that helps us understand about the system and provide several endpoints, you can check it in [List of enpoints](www.luv2code.com/actuator-endpoints)
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-21,13,270-->
 
 
 >[!question]- How to expose all endpoints
@@ -26,7 +26,7 @@ It just the tools that helps us understand about the system and provide several 
 >[!question]- How to customize Spring Security
 ?
 ![[Pasted image 20240802021241.png]]
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-15,7,250-->
 
 
  >[!question]- How to inject custom application properties
@@ -55,7 +55,7 @@ Log level and log file path, log file name
 >// Session imeout
 >server.servlet.session.timeout=15m
 >```
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-19,11,270-->
 
 >[!question]- What can you change in Actuator Properties
 ?
@@ -66,7 +66,7 @@ Log level and log file path, log file name
 >// Base path for actuator endpoints
 >management.endpoints.web.base-path=/actuator
 >```
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-14,6,250-->
 
 >[!question]- What can you change in Security Properties
 ?
@@ -75,7 +75,7 @@ Log level and log file path, log file name
 >spring.security.user.name=admin
 >spring.security.user.password=topsecret
 >```
-<!--SR:!2024-08-05,3,250-->
+<!--SR:!2024-10-17,9,270-->
 
 >[!question]- What can you change in Data Properties
 ?
